@@ -3,7 +3,7 @@
    require 'php/function.php';
 
    // melakukan query
-   $alat_musik = query("SELECT * FROM elektronika")
+   $elektronika = query("SELECT * FROM elektronika")
 ?> 
 
 
